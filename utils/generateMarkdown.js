@@ -53,23 +53,44 @@ const generateMarkdown = ({name, license, desc, install, usage, contribution, us
 
   ${licenseBadge}
   <br />
+  <br />
   
   ${desc}
   <br />
+  <br />
+
+  ##### Table of Contents  
+  [How to Install](#installation)  
+  [Usage](#usage)   
+  [How to Contribute](#contribution)  
+  [Contact](#contact)  
+  <br />
+
+  <a name="installation"></a>
 
   ## How to Install
   ${install}
   <br />
+  <br />
+
+  <a name="usage"></a>
 
   ## Usage
   ${usage}
   <br />
+  <br />
+
+  <a name="contribution"></a>
 
   ## How to Contribute
   ${contribution}
+  <br />
+  <br />
+
+  <a name="contact"></a>
 
   ## Contact
-  If you have any questions, contact the creator at:
+  If you have any questions, contact the administrator at:
 
   * [${username}](${profileLink})
   * ${email}
