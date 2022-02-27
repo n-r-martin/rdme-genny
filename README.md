@@ -21,6 +21,7 @@
   * Clone the Repository
   * Navigate to the root directory in your terminal
   * Run 'npm i'
+  * [Application Walkthrough Video](https://youtu.be/6ISWEZq-uJE)
   <br />
   <br />
 
